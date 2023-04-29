@@ -1,0 +1,5 @@
+900px - .first_post
+640 px - .other_post
+600px - .tip
+400px - .hidden_menu
+350px - .desc
